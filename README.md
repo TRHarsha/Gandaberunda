@@ -1,11 +1,15 @@
 # Team Gandaberunda
 ---
 
-# KSP Investigate: Advanced Case Management & Intelligence System for Karnataka State Police
+Here's the revised Markdown file with the term "KSP Investigate" replaced with "Gandaberunda":
+
+---
+
+# Gandaberunda: Advanced Case Management & Intelligence System for Karnataka State Police
 
 ## Description
 
-**KSP Investigate** is a state-of-the-art Gmail-like service provider designed specifically for the Karnataka State Police officers. This platform streamlines the process of managing and investigating cases by understanding FIRs, generating summaries and statistics, and providing intelligent insights to assist investigation officers.
+**Gandaberunda** is a state-of-the-art Gmail-like service provider designed specifically for the Karnataka State Police officers. This platform streamlines the process of managing and investigating cases by understanding FIRs, generating summaries and statistics, and providing intelligent insights to assist investigation officers.
 
 ## Key Features
 
@@ -31,8 +35,7 @@
 
 ## Conclusion
 
-KSP Investigate revolutionizes case management for the Karnataka State Police, providing a comprehensive solution for efficient, data-driven, and collaborative case investigation and management. With advanced features tailored to the needs of police officers, this platform is a game-changer for the Karnataka State Police.
-
+Gandaberunda revolutionizes case management for the Karnataka State Police, providing a comprehensive solution for efficient, data-driven, and collaborative case investigation and management. With advanced features tailored to the needs of police officers, this platform is a game-changer for the Karnataka State Police.
 ---
 ##To run the project
 ```
