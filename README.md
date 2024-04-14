@@ -59,10 +59,8 @@ streamlit run Main.py
 
 ## YouTube Video
 
-<iframe width="1011" height="572" src="https://www.youtube.com/embed/LWAaFTGsBCw" title="Predictive crime analysis - Team Gandaberunda | KSP DATATHON 2023 | HACK2SKILL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Watch the video on YouTube]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/embed/LWAaFTGsBCw)
 
 ## PPT for the project
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQXPJoOJCqwE2Hgn2djqR5snssdzvN90HJJ1qceRCLkma0MOdG3neH2uy8Yu5hSVKFoeKl9enXXfdmb/embed?start=true&loop=true&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-
+[Download the PowerPoint presentation](https://docs.google.com/presentation/d/1amCnsJ0IPxUwkgZEn7jSi0t45NYQpm0fTq47JvaSsgw/edit?usp=drivesdk)
