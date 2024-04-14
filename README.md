@@ -1,10 +1,6 @@
 # Team Gandaberunda
 ---
 
-Here's the revised Markdown file with the term "KSP Investigate" replaced with "Gandaberunda":
-
----
-
 # Gandaberunda: Advanced Case Management & Intelligence System for Karnataka State Police
 
 ## Description
