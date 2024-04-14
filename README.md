@@ -1,6 +1,4 @@
 # Team Gandaberunda
-Here's the content for a markdown (.md) file describing the project:
-
 ---
 
 # KSP Investigate: Advanced Case Management & Intelligence System for Karnataka State Police
@@ -59,3 +57,10 @@ streamlit run Main.py
 ![image](https://github.com/TRHarsha/Gandaberunda/assets/63777708/99394063-e7d3-4c99-a27b-7608c16bfb84)
 
 ![image](https://github.com/TRHarsha/Gandaberunda/assets/63777708/9e0d7ad2-24e8-46dd-9425-605494beb213)
+
+##Youtube Video
+<iframe width="1011" height="572" src="https://www.youtube.com/embed/LWAaFTGsBCw" title="Predictive crime analysis - Team Gandaberunda | KSP DATATHON 2023 | HACK2SKILL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##PPT for the project
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQXPJoOJCqwE2Hgn2djqR5snssdzvN90HJJ1qceRCLkma0MOdG3neH2uy8Yu5hSVKFoeKl9enXXfdmb/embed?start=true&loop=true&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
